@@ -6,6 +6,6 @@ int main(){
 		printf("vowel\n");
 	}
 	else{
-		printf("not vowel\n");
+		printf("constant\n");
 	}
 }
